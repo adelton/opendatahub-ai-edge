@@ -59,4 +59,4 @@ replacements:
 images:
 - name: edge-model-template-image
   newName: quay.io/rhoai-edge/tensorflow-housing
-  digest: sha256:b5f11c2f380e76bb4dc5b66e40fff46ee277cd9a7477a6519b95dc8017f67852
+  digest: sha256:19e7312d8cbfcbf21dcab083f9ef99af2f807f156b1216a423267010b7fdd7c0
